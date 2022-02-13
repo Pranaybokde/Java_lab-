@@ -1,6 +1,6 @@
 import java.util.Scanner;
     public class lab17 {
-        // Program By Pravesh Tiwari
+        // Program By Pranay Bokde
 
     public static void main(String args[])
     {
