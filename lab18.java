@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class lab18{
-    // Program By Pravesh Tiwari
+    // Program By Pranay Bokde
     public static void main(String[] args){
         System.out.print("Enter a number:");
         Scanner sc=new Scanner(System.in);
