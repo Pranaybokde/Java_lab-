@@ -1,5 +1,5 @@
 public class lab3
-{                    //Program by Pravesh Tiwari
+{                    //Program by Pranay Bokde
    public static void main(String args[])
     {
        
