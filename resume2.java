@@ -5,14 +5,14 @@ class resume2{
   public static void about(){
     System.out.println("-------------------------------------RESUME-----------------------------------");
     System.out.println("");
-    System.out.println("Name: Pravesh Tiwari");
+    System.out.println("Name: Pranay Bokde");
     System.out.println("Contact: 12345678");
-    System.out.println("Father Name: Vimlesh Tiwari");
-    System.out.println("Date of Birth: 02/02/2002");
+    System.out.println("Father Name: Shankar Bokde");
+    System.out.println("Date of Birth: 19/12/2000");
     System.out.println("Gender:  Male");
     System.out.println("Religion: Hindu");
     System.out.println("Nationality: Indian");
-    System.out.println("E-mail: praveshtiwari@gmail.com");
+    System.out.println("E-mail: pranaybokde123@gmail.com");
     System.out.println("");
     
 
@@ -25,7 +25,7 @@ class resume2{
     System.out.println("B.E");
     System.out.println("2020-Present");
     System.out.println("");
-    System.out.println("2.ST JOSEPH'S PU COLLEGE ");
+    System.out.println("2.ST Mary's School ");
     System.out.println("Class 12");
     System.out.println("2018-20");
     System.out.println("");
