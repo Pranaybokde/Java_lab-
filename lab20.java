@@ -1,5 +1,5 @@
 import java.util.*;
-public class lab20 {                                    //Program By pravesh tiwari
+public class lab20 {                                    //Program By pranay Bokde
     public static void main(String[] args) {
   
       int n, firstTerm = 0, secondTerm = 1;  //assinging value for first and second term
