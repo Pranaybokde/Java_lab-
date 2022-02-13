@@ -1,6 +1,6 @@
 import java.util.*;
 public class lab15
-{                        //Program by Pravesh Tiwari
+{                        //Program by Pranay Bokde
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
