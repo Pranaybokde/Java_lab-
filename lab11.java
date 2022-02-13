@@ -1,4 +1,4 @@
-  //Program by Pravesh Tiwari
+  //Program by Pranay Bokde
 import java.util.*;
 public class lab11
 {                  
