@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.Math;
 public class lab8
-{                           //Program by Pravesh Tiwari
+{                           //Program by Pranay Bokde
       public static void main(String[] args)
     {
        
